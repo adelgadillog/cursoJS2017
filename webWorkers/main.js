@@ -8,3 +8,6 @@ myWorker.onmessage = function(e) {
   console.log('Resultado es: '+resultado);
   myWorker.terminate();
 }
+
+
+
